@@ -1,6 +1,16 @@
 // Define your variable overrides here
+// Typography variables
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 $font-family-sans-serif: 'Noto Sans JP', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+// color variables
+$primary: rgba(96, 225, 224, 1);
+$secondary: rgba(224, 180, 202, 1);
+$success: rgba(160, 224, 96);
+$info: rgba(67, 146, 241, 1);
+$danger: rgba(242, 87, 87, 1);
+$warning: rgba(255, 209, 102, 1);
+
 
 // Include Bootstrap and BootstrapVue SCSS files
 @import '~bootstrap/scss/bootstrap.scss';
