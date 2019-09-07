@@ -16,7 +16,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: '神戸大学塚本・寺田研究室およびNPO法人ウェアラブルコンピュータ研究開発機構では、ユビキタス・ウェアラブルワークショップを2007年以来毎年開催し、ユビキタス・ウェアラブル技術に関する密度の濃い発表と議論を行っています。' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: BASE_URL_SUFFIX + '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: BASE_URL_SUFFIX + '/favicon.ico?ver=1.01' },
+      { rel: 'apple-touch-icon', type: 'image/png', href: BASE_URL_SUFFIX + '/apple-touch-icon-180x180.png?ver=1.01' }
     ]
   },
   /*
