@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar toggleable="lg" type="dark" variant="info" class="p-3">
+    <b-navbar toggleable="lg" class="p-3 shadow-sm">
       UWW2019
     </b-navbar>
   </div>
