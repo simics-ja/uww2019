@@ -1,15 +1,19 @@
-const BASE_URL_SUFFIX = '/uww2019/'
+const BASE_URL_SUFFIX = '/uww2019'
+const BASE_URL = process.env.BASE_URL || 'http://localhost:3000'
 
 module.exports = {
   mode: 'spa',
   /*
   ** Headers of the page
   */
+  env: {
+    baseUrl: BASE_URL
+  },
   router: {
     base: BASE_URL_SUFFIX
   },
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'Ubiquitous Wearable Workshop 2019',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -47,8 +51,14 @@ module.exports = {
   modules: [
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
-    '@nuxtjs/pwa'
+    '@nuxtjs/pwa',
+    '@nuxtjs/style-resources'
   ],
+  styleResources: {
+    scss: [
+      '~/assets/styles/scss/custom.scss' // 読みませたいscssファイルを指定します。
+    ]
+  },
   /*
   ** Build configuration
   */

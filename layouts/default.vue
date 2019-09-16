@@ -17,4 +17,5 @@ export default {
 
 <style lang="scss">
 @import 'assets/styles/scss/custom.scss';
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+JP&display=swap');
 </style>
