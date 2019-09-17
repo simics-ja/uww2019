@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-jumbotron header="UWW2019" lead="Ubiquitous Wearable Workshop" class="jb-wrapper">
+    <b-jumbotron header="UWW2019" lead="Ubiquitous Wearable Workshop" class="jb-wrapper uww-title-font">
       <div class="jb-subinfo">
         <p>2019年 12月20日(金) - 21日(土)</p>
         <p>@兵庫県立淡路夢舞台国際会議場</p>
@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 .jb-wrapper {
   background: url('../assets/images/jumbotron.jpg') center no-repeat;
   background-size: cover;

@@ -36,8 +36,10 @@ module.exports = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [{
+    src: '~plugins/vue-scrollmagic.js',
+    ssr: false
+  }],
   /*
   ** Nuxt.js dev-modules
   */
@@ -52,12 +54,22 @@ module.exports = {
     // Doc: https://bootstrap-vue.js.org/docs/
     'bootstrap-vue/nuxt',
     '@nuxtjs/pwa',
-    '@nuxtjs/style-resources'
+    '@nuxtjs/style-resources',
+    'nuxt-fontawesome'
   ],
+  /*
+   ** style-resources
+   */
   styleResources: {
     scss: [
       '~/assets/styles/scss/custom.scss' // 読みませたいscssファイルを指定します。
     ]
+  },
+  /*
+   ** FontAwesome
+   */
+  fontawesome: {
+    component: 'fa'
   },
   /*
   ** Build configuration
