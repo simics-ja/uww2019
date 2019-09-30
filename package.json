@@ -2,7 +2,7 @@
   "name": "UWW2019",
   "version": "1.0.0",
   "description": "Website for Ubiquitous Wearable Workshop 2019 (UWW2019)",
-  "author": "Shimizu Tomoyuki",
+  "author": "Tsukamoto Terada Lab.",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",

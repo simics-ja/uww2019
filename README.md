@@ -13,7 +13,7 @@ But I think maybe it goes well.
 BASE_URL='YOUR_PRODUCTION_DOMAIN'
 
 # install dependencies
-$ npm run install
+$ npm install
 
 # serve with hot reload at localhost:3000
 $ npm run dev

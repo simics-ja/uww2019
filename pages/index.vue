@@ -52,15 +52,33 @@
                 Updates
               </h1>
               <div class="uww-body">
-                <div class="border border-secondary px-4 py-2 rounded-lg">
-                  <p>
-                    <b-badge variant="secondary">
-                      2019-10-01
-                    </b-badge>
-                    <span class="ml-2">
-                      参加登録の受付を開始しました。
-                    </span>
-                  </p>
+                <div class="border border-secondary px-4 py-2 rounded-lg" style="overflow-y:scroll;height:10em">
+                  <ul class="list-unstyled">
+                    <!-- <li>
+                      <b-badge variant="secondary">
+                        2019-10-01
+                      </b-badge>
+                      <span class="ml-2">
+                        <b-link :href="absolutePath + 'reg'">参加登録ページ</b-link>をオープンしました。
+                      </span>
+                    </li> -->
+                    <li>
+                      <b-badge variant="secondary">
+                        2019-09-30
+                      </b-badge>
+                      <span class="ml-2">
+                        原稿テンプレートは上部のナビゲーションバーからダウンロードできます。
+                      </span>
+                    </li>
+                    <li>
+                      <b-badge variant="secondary">
+                        2019-09-20
+                      </b-badge>
+                      <span class="ml-2">
+                        WEBサイトをオープンしました。
+                      </span>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
@@ -72,11 +90,11 @@
                 <table class="fine2col-warning mb-4">
                   <tr>
                     <th>一般</th>
-                    <td>XX,XXX円</td>
+                    <td>20,000円</td>
                   </tr>
                   <tr>
                     <th>学生</th>
-                    <td>XX,XXX円</td>
+                    <td>16,000円</td>
                   </tr>
                 </table>
                 <div class="px-3 py-3 gray-highlighter rounded-lg">
@@ -88,13 +106,13 @@
                       社会人学生については一般と同じ参加費になります。
                     </li>
                     <li>
-                      内訳が必要な場合は宿泊費XX,XXX円（食費込）、参加費（一般）X,XXX、（学生）X,XXX円としております。
+                      内訳が必要な場合は宿泊費12,000円（食費込）、参加費（一般）8,000円、（学生）4,000円としております。
                     </li>
                     <li>
-                      宿泊せずに参加される場合は、参加費（一般）X,XXX円、（学生）X,XXX円のみを頂戴いたします。
+                      宿泊せずに参加される場合は、参加費（一般）8,000円、（学生）4,000円のみを頂戴いたします。
                     </li>
                     <li>
-                      宿泊せずに懇親会に参加される方は、懇親会費X,XXX円を頂戴致します。
+                      宿泊せずに懇親会に参加される方は、懇親会費5,000円を頂戴致します。
                     </li>
                     <li>
                       参加費は1日のみの参加の場合でも減額は致しませんので、ご了承下さい。
@@ -157,7 +175,7 @@
                     <h3 class="text-center">
                       12月21日（土）
                     </h3>
-                    <table class="fine2col-info">
+                    <table class="fine2col-info mb-4">
                       <tr>
                         <th>9:00-17:00</th>
                         <td>口頭発表セッション（途中休憩あり）</td>
@@ -167,6 +185,9 @@
                         <td>表彰・クロージング</td>
                       </tr>
                     </table>
+                    <div class="px-3 py-3 gray-highlighter rounded-lg">
+                      <span>上記は暫定のタイムテーブルであり、参加者数等により変更が生じる場合がございます。</span>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -243,7 +264,7 @@
                 </div>
               </div>
               <div class="px-3 py-3 gray-highlighter rounded-lg">
-                （仮）本ワークショップは、科学技術振興機構戦略的創造研究推進事業(さきがけ)、科学技術振興機構戦略的創造研究推進事業(CREST)、科学技術振興機構研究成果最適展開支援プログラム(A-STEP)、情報通信研究機構日欧共同公募委託研究(NICT)、国立研究開発法人新エネルギー・産業技術総合開発機構次世代人工知能・ロボット中核技術開発の成果報告会を兼ねています。
+                本ワークショップは、科学技術振興機構戦略的創造研究推進事業(CREST)、情報通信研究機構日欧共同公募委託研究(NICT)、国立研究開発法人新エネルギー・産業技術総合開発機構次世代人工知能・ロボット中核技術開発の成果報告会を兼ねています。
               </div>
             </div>
           </b-col>
@@ -259,6 +280,11 @@ import Jumbotron from '~/components/Jumbotron.vue'
 export default {
   components: {
     Jumbotron
+  },
+  computed: {
+    absolutePath () {
+      return `${process.env.baseUrl}${this.$router.history.base}${this.$route.path}`
+    }
   },
   mounted () {
     const headers = ['uww-overview', 'uww-update', 'uww-deadline', 'uww-price', 'uww-schedule', 'uww-member', 'uww-sponsor']

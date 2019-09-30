@@ -16,19 +16,19 @@
           <b-nav-item v-b-tooltip.hover title="後日公開予定です" to="/program" class="p-2 marking-hover-info" disabled>
             <span class="uww-title-font">Program</span>
           </b-nav-item>
-          <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right>
-            <b-dropdown-item :href="absolutePath + '/reg'" class="text-center">
+          <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right disabled>
+            <b-dropdown-item :href="absolutePath + 'reg'" class="text-center">
               <span>Registration</span>
             </b-dropdown-item>
-            <b-dropdown-item :href="absolutePath + '/reg/login.php'" class="text-center">
+            <b-dropdown-item :href="absolutePath + 'reg/login.php'" class="text-center" disabled>
               <span>Submission</span>
             </b-dropdown-item>
           </b-nav-item-dropdown>
           <b-nav-item-dropdown text="Download" class="p-2 marking-hover-warning uww-title-font" right>
-            <b-dropdown-item :href="absolutePath + '/static/'" class="text-center" download="" disabled>
+            <b-dropdown-item :href="absolutePath + 'UWW2019_Format_LaTeX.zip'" class="text-center" download>
               <span>Template(LaTeX)</span>
             </b-dropdown-item>
-            <b-dropdown-item href="#" class="text-center" disabled>
+            <b-dropdown-item :href="absolutePath + 'word_UWW2019.docx'" class="text-center" download>
               <span>Template(Word)</span>
             </b-dropdown-item>
             <b-dropdown-item href="#" class="text-center" disabled>
