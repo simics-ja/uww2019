@@ -54,14 +54,14 @@
               <div class="uww-body">
                 <div class="border border-secondary px-4 py-2 rounded-lg" style="overflow-y:scroll;height:10em">
                   <ul class="list-unstyled">
-                    <!-- <li>
+                    <li>
                       <b-badge variant="secondary">
                         2019-10-01
                       </b-badge>
                       <span class="ml-2">
                         <b-link :href="absolutePath + 'reg'">参加登録ページ</b-link>をオープンしました。
                       </span>
-                    </li> -->
+                    </li>
                     <li>
                       <b-badge variant="secondary">
                         2019-09-30
