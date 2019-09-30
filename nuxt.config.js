@@ -25,7 +25,7 @@ module.exports = {
       // ogp settings
       { hid: 'og:site_name', property: 'og:site_name', content: 'Ubiquitous Wearable Workshop 2019' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: BASE_URL + BASE_URL_SUFFIX },
+      { hid: 'og:url', property: 'og:url', content: BASE_URL + BASE_URL_SUFFIX + '/' },
       { hid: 'og:title', property: 'og:title', content: 'Ubiquitous Wearable Workshop 2019' },
       { hid: 'og:description', property: 'og:description', content: 'ユビキタス・ウェアラブル技術に関するワークショップ「UWW2019」を12月20日（金）-21日（土） @淡路島にて開催いたします！' },
       { hid: 'og:image', property: 'og:image', content: BASE_URL + BASE_URL_SUFFIX + '/ogp-common.jpg' },
