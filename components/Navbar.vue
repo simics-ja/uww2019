@@ -16,11 +16,11 @@
           <b-nav-item v-b-tooltip.hover title="後日公開予定です" to="/program" class="p-2 marking-hover-info" disabled>
             <span class="uww-title-font">Program</span>
           </b-nav-item>
-          <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right disabled>
+          <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right>
             <b-dropdown-item :href="absolutePath + 'reg'" class="text-center">
               <span>Registration</span>
             </b-dropdown-item>
-            <b-dropdown-item :href="absolutePath + 'reg/login.php'" class="text-center" disabled>
+            <b-dropdown-item :href="absolutePath + 'reg/login.php'" class="text-center">
               <span>Submission</span>
             </b-dropdown-item>
           </b-nav-item-dropdown>
