@@ -3,7 +3,7 @@
     <div>
       <Jumbotron />
     </div>
-    <div class="uww-container container shadow-sm rounded-lg mb-3">
+    <div class="container shadow-sm rounded-lg mb-3">
       <b-container class="py-3 px-3">
         <b-row>
           <b-col class="mb-4 uww-content">
@@ -18,24 +18,17 @@
                   </b-col>
                   <b-col lg="9">
                     <div>
-                      <p>
-                        ユビキタス・ウェアラブル技術の発展はめざましく、これらの技術に関する研究開発が活発に行われています。神戸大学塚本・寺田研究室およびNPO法人ウェアラブルコンピュータ研究開発機構では、ユビキタス・ウェアラブルワークショップを2007年以来毎年開催し、今年は13回目となります。例年、ユビキタス・ウェアラブル技術に関する50件程度の密度の濃い発表と議論を行っています。本年度も本ワークショップを下記の通り企画しておりますので、是非ご参加いただけますようお願い致します。
-                      </p>
+                      <p>ユビキタス・ウェアラブル技術の発展はめざましく、これらの技術に関する研究開発が活発に行われています。神戸大学塚本・寺田研究室およびNPO法人ウェアラブルコンピュータ研究開発機構では、ユビキタス・ウェアラブルワークショップを2007年以来毎年開催し、今年は13回目となります。例年、ユビキタス・ウェアラブル技術に関する50件程度の密度の濃い発表と議論を行っています。本年度も本ワークショップを下記の通り企画しておりますので、是非ご参加いただけますようお願い致します。</p>
                     </div>
                     <div class="px-3 py-3 gray-highlighter rounded-lg">
                       <p>本ワークショップの特色は以下の通りです。</p>
                       <ul>
+                        <li>A4原稿1枚記述</li>
+                        <li>一人15分程度のショートプレゼンテーション</li>
+                        <li>参加者間の交流を目指した1泊2日の合宿型ワークショップ</li>
                         <li>
-                          A4原稿1枚記述
-                        </li>
-                        <li>
-                          一人15分程度のショートプレゼンテーション
-                        </li>
-                        <li>
-                          参加者間の交流を目指した1泊2日の合宿型ワークショップ
-                        </li>
-                        <li>
-                          実践的な情報処理技術に関する特別企画などを含んだ<span class="marking-hover-secondary">「夜のディスカッション」</span>
+                          実践的な情報処理技術に関する特別企画などを含んだ
+                          <span class="marking-hover-secondary">「夜のディスカッション」</span>
                         </li>
                       </ul>
                     </div>
@@ -52,7 +45,10 @@
                 Updates
               </h1>
               <div class="uww-body">
-                <div class="border border-secondary px-4 py-2 rounded-lg" style="overflow-y:scroll;height:10em">
+                <div
+                  class="border border-secondary px-4 py-2 rounded-lg"
+                  style="overflow-y:scroll;height:10em"
+                >
                   <ul class="list-unstyled">
                     <li>
                       <b-badge variant="secondary">
@@ -66,17 +62,13 @@
                       <b-badge variant="secondary">
                         2019-09-30
                       </b-badge>
-                      <span class="ml-2">
-                        原稿テンプレートは上部のナビゲーションバーからダウンロードできます。
-                      </span>
+                      <span class="ml-2">原稿テンプレートは上部のナビゲーションバーからダウンロードできます。</span>
                     </li>
                     <li>
                       <b-badge variant="secondary">
                         2019-09-20
                       </b-badge>
-                      <span class="ml-2">
-                        WEBサイトをオープンしました。
-                      </span>
+                      <span class="ml-2">WEBサイトをオープンしました。</span>
                     </li>
                   </ul>
                 </div>
@@ -99,24 +91,12 @@
                 </table>
                 <div class="px-3 py-3 gray-highlighter rounded-lg">
                   <ul>
-                    <li>
-                      お支払いは当日現金にてお願いします。
-                    </li>
-                    <li>
-                      社会人学生については一般と同じ参加費になります。
-                    </li>
-                    <li>
-                      内訳が必要な場合は宿泊費12,000円（食費込）、参加費（一般）8,000円、（学生）4,000円としております。
-                    </li>
-                    <li>
-                      宿泊せずに参加される場合は、参加費（一般）8,000円、（学生）4,000円のみを頂戴いたします。
-                    </li>
-                    <li>
-                      宿泊せずに懇親会に参加される方は、懇親会費5,000円を頂戴致します。
-                    </li>
-                    <li>
-                      参加費は1日のみの参加の場合でも減額は致しませんので、ご了承下さい。
-                    </li>
+                    <li>お支払いは当日現金にてお願いします。</li>
+                    <li>社会人学生については一般と同じ参加費になります。</li>
+                    <li>内訳が必要な場合は宿泊費12,000円（食費込）、参加費（一般）8,000円、（学生）4,000円としております。</li>
+                    <li>宿泊せずに参加される場合は、参加費（一般）8,000円、（学生）4,000円のみを頂戴いたします。</li>
+                    <li>宿泊せずに懇親会に参加される方は、懇親会費5,000円を頂戴致します。</li>
+                    <li>参加費は1日のみの参加の場合でも減額は致しませんので、ご了承下さい。</li>
                   </ul>
                 </div>
               </div>
@@ -135,7 +115,10 @@
                   </tr>
                   <tr>
                     <th>原稿提出締切</th>
-                    <td>2019年12月 1日（日） 23:59（JST）<span class="text-danger">【厳守】</span></td>
+                    <td>
+                      2019年12月 1日（日） 23:59（JST）
+                      <span class="text-danger">【厳守】</span>
+                    </td>
                   </tr>
                 </table>
               </div>
@@ -287,13 +270,22 @@ export default {
     }
   },
   mounted () {
-    const headers = ['uww-overview', 'uww-update', 'uww-deadline', 'uww-price', 'uww-schedule', 'uww-member', 'uww-sponsor']
+    const headers = [
+      'uww-overview',
+      'uww-update',
+      'uww-deadline',
+      'uww-price',
+      'uww-schedule',
+      'uww-member',
+      'uww-sponsor'
+    ]
     for (const i in headers) {
-      const scene = this.$scrollmagic.scene({
-        triggerElement: '#' + headers[i],
-        triggerHook: 0.7,
-        reverse: false
-      })
+      const scene = this.$scrollmagic
+        .scene({
+          triggerElement: '#' + headers[i],
+          triggerHook: 0.7,
+          reverse: false
+        })
         .setClassToggle('#' + headers[i], 'active')
       this.$scrollmagic.addScene(scene)
     }
@@ -302,9 +294,6 @@ export default {
 </script>
 
 <style lang="scss">
-.uww-container {
-  background-color: $light
-}
 .uww-top-image-wrapper {
   display: flex;
   justify-content: center;
