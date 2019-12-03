@@ -55,7 +55,7 @@
                         2019-10-01
                       </b-badge>
                       <span class="ml-2">
-                        <b-link :href="absolutePath + 'reg'">参加登録ページ</b-link>をオープンしました。
+                        参加登録ページをオープンしました。
                       </span>
                     </li>
                     <li>

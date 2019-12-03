@@ -17,7 +17,7 @@
             <span class="uww-title-font">Program</span>
           </b-nav-item>
           <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right>
-            <b-dropdown-item :href="absolutePath + 'reg'" class="text-center">
+            <b-dropdown-item :href="absolutePath + 'reg'" class="text-center" disabled>
               <span>Registration</span>
             </b-dropdown-item>
             <b-dropdown-item :href="absolutePath + 'reg/login.php'" class="text-center">
