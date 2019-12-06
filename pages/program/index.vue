@@ -3,7 +3,7 @@
     <div>
       <b-jumbotron class="jb-wrapper uww-title-font tex-center">
         <div class="w-100">
-          <h1 class="ml-auto mr-auto text-center">
+          <h1 class="mx-auto text-center">
             Program
           </h1>
         </div>
@@ -21,7 +21,7 @@
           </b-row>
           <b-row v-for="session in queryFilter" :key="session.sessionId">
             <div v-if="session.sessionId==='1'" class="uww-content w-100">
-              <h1 id="uww-firstday" class="uww-header uww-title-font ml-auto mr-auto mt-5 mb-3 marking-scroll-primary">
+              <h1 id="uww-firstday" class="uww-header uww-title-font mx-auto mt-5 mb-3 marking-scroll-primary">
                 {{ session.date }}
               </h1>
             </div>
@@ -30,12 +30,12 @@
                 {{ session.date }}
               </h1>
             </div>
-            <div v-if="!query || (session.hasPresentation && session.presentations.length > 0)" class="container shadow-sm rounded-lg mt-2 mb-2 p-5 uww-body">
+            <div v-if="!query || (session.hasPresentation && session.presentations.length > 0)" class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-2 pb-5 uww-body">
               <div class="w-100">
-                <h5 class="ml-auto mr-auto text-center">
+                <h5 class="mx-auto text-center">
                   {{ session.duration }}
                 </h5>
-                <h2 class="ml-auto mr-auto text-center">
+                <h2 class="mx-auto text-center">
                   {{ session.sessionName }}
                 </h2>
               </div>
@@ -46,10 +46,13 @@
                 <div>
                   <ul>
                     <li v-for="presentation in session.presentations" :key="presentation.presentationId">
-                      <h3>
+                      <p class="mb-0 text-large">
                         {{ presentation.title }}
-                      </h3>
-                      <p><fa :icon="faUser" class="mr-2" />{{ presentation.speaker }}</p>
+                      </p>
+                      <p>
+                        <fa :icon="faUser" class="mr-2" />
+                        {{ presentation.speaker }}
+                      </p>
                     </li>
                   </ul>
                 </div>
@@ -58,14 +61,14 @@
           </b-row>
           <b-row>
             <div class="uww-content w-100">
-              <h1 id="uww-bus-info" class="uww-header uww-title-font ml-auto mr-auto mt-5 marking-scroll-success">
+              <h1 id="uww-bus-info" class="uww-header uww-title-font mx-auto mt-5 marking-scroll-success">
                 バス情報（帰り）
               </h1>
-              <div class="container shadow-sm rounded-lg mt-2 mb-2 p-5 uww-body text-center ">
-                <h2 class="ml-auto mr-auto">
+              <div class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-2 pb-5 uww-body text-center ">
+                <h2 class="mx-auto">
                   淡路夢舞台前
                 </h2>
-                <div class="text-center ml-auto mr-auto">
+                <div class="text-center mx-auto">
                   <p class="mb-0">
                     17:46発 (新神戸 18:42着)
                   </p>
@@ -186,5 +189,9 @@ export default {
   .uww-body {
     text-align: left;
   }
+}
+
+.text-large {
+  font-size: 1.1rem
 }
 </style>
