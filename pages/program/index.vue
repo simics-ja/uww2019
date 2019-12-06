@@ -1,5 +1,14 @@
 <template>
   <div class="pt-3 pb-3">
+    <div>
+      <b-jumbotron class="jb-wrapper uww-title-font tex-center">
+        <div class="w-100">
+          <h1 class="ml-auto mr-auto text-center">
+            Program
+          </h1>
+        </div>
+      </b-jumbotron>
+    </div>
     <div class="container mb-3">
       <b-container class="py-3 px-3">
         <b-col>
@@ -153,6 +162,22 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.jb-wrapper {
+  background: url('../../assets/images/jumbotron-program.jpg') center no-repeat;
+  background-size: cover;
+  color: rgba(250, 250, 250, 1);
+  text-shadow: 1px 1px 3px #202020;
+  border-radius: 0;
+}
+
+.jb-subinfo {
+  p {
+    margin: 0;
+    padding: 0;
+    text-align: right;
+  }
+}
+
 .uww-content {
   text-align: center;
   .uww-header {
