@@ -1,7 +1,7 @@
 <template>
   <div class="pb-3">
     <div>
-      <Jumbotron />
+      <Jumbotron />>
     </div>
     <div class="container shadow-sm rounded-lg mb-3">
       <b-container class="py-3 px-3">
