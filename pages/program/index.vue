@@ -30,7 +30,7 @@
                 {{ session.date }}
               </h1>
             </div>
-            <div v-if="!query || (session.hasPresentation && session.presentations.length > 0)" class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-2 pb-5 uww-body">
+            <div v-if="!query || (session.hasPresentation && session.presentations.length > 0)" class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-4 uww-body">
               <div class="w-100">
                 <h5 class="mx-auto text-center">
                   {{ session.duration }}
@@ -40,7 +40,7 @@
                 </h2>
               </div>
               <div v-if="session.hasPresentation">
-                <div class="mb-3">
+                <div class="mb-3 text-center">
                   座長: {{ session.chairperson }}
                 </div>
                 <div>
@@ -64,7 +64,7 @@
               <h1 id="uww-bus-info" class="uww-header uww-title-font mx-auto mt-5 marking-scroll-success">
                 バス情報（帰り）
               </h1>
-              <div class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-2 pb-5 uww-body text-center ">
+              <div class="container shadow-sm rounded-lg mt-2 mb-2 px-sm-5 py-4 uww-body text-center ">
                 <h2 class="mx-auto">
                   淡路夢舞台前
                 </h2>
