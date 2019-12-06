@@ -1,5 +1,5 @@
 <template>
-  <div class="pt-3 pb-3">
+  <div class="pb-3">
     <div>
       <b-jumbotron class="jb-wrapper uww-title-font tex-center">
         <div class="w-100">
@@ -41,7 +41,7 @@
               </div>
               <div v-if="session.hasPresentation">
                 <div class="mb-3">
-                  座長:
+                  座長: {{ session.chairperson }}
                 </div>
                 <div>
                   <ul>
