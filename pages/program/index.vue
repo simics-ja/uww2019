@@ -111,7 +111,7 @@ export default {
         for (const index in filteredList) {
           if (filteredList[index].hasPresentation) {
             const queryResults = filteredList[index].presentations.filter((presentation) => {
-              return presentation.title.includes(query) || presentation.speaker.includes(query)
+              return presentation.title.includes(query) || presentation.authors.includes(query)
             })
             filteredList[index].presentations = queryResults
           }
