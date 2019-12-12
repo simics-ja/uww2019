@@ -13,7 +13,7 @@
           <b-nav-item v-b-tooltip.hover title="外部リンクへ移動します" href="http://www.yumebutai.org/access/access.html" class="p-2 marking-hover-success">
             <span class="uww-title-font">Access</span>
           </b-nav-item>
-          <b-nav-item v-b-tooltip.hover title="後日公開予定です" to="/program" class="p-2 marking-hover-info" disabled>
+          <b-nav-item to="/program" class="p-2 marking-hover-info">
             <span class="uww-title-font">Program</span>
           </b-nav-item>
           <b-nav-item-dropdown text="Attending" class="p-2 marking-hover-secondary uww-title-font" right>

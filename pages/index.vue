@@ -58,10 +58,18 @@
                   <ul class="list-unstyled">
                     <li>
                       <b-badge variant="secondary">
+                        2019-12-12
+                      </b-badge>
+                      <span class="ml-2">
+                        プログラムを公開しました。
+                      </span>
+                    </li>
+                    <li>
+                      <b-badge variant="secondary">
                         2019-10-01
                       </b-badge>
                       <span class="ml-2">
-                        参加登録ページをオープンしました。
+                        参加登録ページを公開しました。
                       </span>
                     </li>
                     <li>
@@ -74,7 +82,7 @@
                       <b-badge variant="secondary">
                         2019-09-20
                       </b-badge>
-                      <span class="ml-2">WEBサイトをオープンしました。</span>
+                      <span class="ml-2">WEBサイトを公開しました。</span>
                     </li>
                   </ul>
                 </div>
