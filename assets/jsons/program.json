@@ -27,31 +27,31 @@
       "title": "歩行時のHMDの揺れによる文字の読みづらさを緩和するための動的フォント切り替え手法",
       "speaker": "松浦裕久",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "松浦裕久, 寺田 努(神戸大), 秋末大作, 園田 晋(モリサワ株式会社), 磯山直也(奈良先端大), 塚本昌彦(神戸大)"
     }, {
       "presentationId": "2",
       "title": "LEDパネルにおける故障による違和感の要因に関する調査",
       "speaker": "久保田倉平",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "久保田倉平, 寺田 努(神戸大), 柳沢 豊(m plus plus 株式会社), 塚本昌彦(神戸大)"
     }, {
       "presentationId": "3",
       "title": "AR技術を用いた計算問題の提示方法の違いが結果に与える影響の評価",
       "speaker": "櫻木大和",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "櫻木大和(神戸大), 磯山直也(奈良先端大), 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "4",
       "title": "HMDとスマートフォンでの長時間動画視聴による首への負担の比較",
       "speaker": "江口綾亮",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "江口綾亮, 寺田 努, 塚本昌彦（神戸大）"
     }, {
       "presentationId": "5",
       "title": "広告閲覧時の視点情報に基づく読中判別手法",
       "speaker": "濱本 昂",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "濱本 昂, 寺田 努, 塚本昌彦(神戸大)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -73,31 +73,31 @@
       "title": "装着型小型カメラを用いて撮影した部分映像から自己表情を再現するシステム",
       "speaker": "青木啓晃",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "青木啓晃(神戸大), 磯山直也(奈良先端大), 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "7",
-      "title": "表情推定とフィードバック機能のある眼鏡型デバイスの実装と評価",
+      "title": "自己表情が他者からフィードバックされることで笑顔が促進されるシステムの評価",
       "speaker": "堀江彩太",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "堀江彩太, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "8",
       "title": "表情・頭部姿勢・瞬きの情報に基づく状況内評価の推定",
       "speaker": "近藤杏祐",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "近藤杏祐(神戸大), 加藤 浩(放送大), 大西鮎美, 寺田 努(神戸大), 葛岡英明(東京大), 久保田善彦(玉川大), 鈴木栄幸(茨城大), 塚本昌彦(神戸大)"
     }, {
       "presentationId": "9",
       "title": "顔表情の認識と拡張による会話満足度の向上手法の検討",
       "speaker": "東 健太",
       "affiliation": "奈良先端科学技術大学院大学",
-      "authors": ""
+      "authors": "東 健太, 磯山直也, 酒田信親, 清川 清(奈良先端大)"
     }, {
       "presentationId": "10",
       "title": "耳装着型フォトリフレクタを用いた頭部状態認識手法の提案",
       "speaker": "大山航平",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "大山航平, 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -119,31 +119,31 @@
       "title": "VR映像が与える影響を活用した歌唱時の発声支援システムの調査",
       "speaker": "坂名純太",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "坂名純太, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "12",
       "title": "アクティブ音響センシングを用いた食材認識道具の検討",
       "speaker": "西井遥菜",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "西井遥菜, 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "13",
       "title": "音響と振動の特性が異なる3Dプリンタ生成物を用いたスマートフォンのアプリケーショントリガの提案",
       "speaker": "八田将志",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "八田将志(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "14",
       "title": "アクティブ音響センシングを用いた肉の焼け具合推定手法の提案",
       "speaker": "野田倫太郎",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "野田倫太郎(立命館大), 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "15",
       "title": "超音波を用いたアクティブセンシングによるテクスチャー弁別",
       "speaker": "角谷美和",
       "affiliation": "情報通信研究機構",
-      "authors": ""
+      "authors": "角谷美和(情報通信研究機構, 日本学術振興会), 蘆原 郁(産業技術総合研究所), 渡邉拓貴(北海道大)、寺田 努(神戸大), 安藤広志(情報通信研究機構), 長谷芳樹(ピクシーダストテクノロジーズ株式会社), 藤塚有美, 吉野寿紀, 小林耕太, 渡辺好章, 飛龍志津子(同志社大)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -157,37 +157,37 @@
       "title": "掲示情報と生体リズムの同期による情報選択への影響の調査",
       "speaker": "石橋直人",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "石橋直人, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "17",
       "title": "ウェアラブルセンサを用いた人の快適度推定",
       "speaker": "毛 昊珉",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "Mao Haomin, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "18",
       "title": "主観疲労制御のための筋活動量の視覚フィードバック手法の検討",
       "speaker": "関 朋哉",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "関 朋哉, 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "19",
       "title": "ポジティブ情報の常時閲覧が自転車走行に与える影響",
       "speaker": "長谷川英一",
       "affiliation": "奈良先端科学技術大学院大学",
-      "authors": ""
+      "authors": "長谷川瑛一, 磯山直也, 酒田信親, 清川 清(奈良先端大)"
     }, {
       "presentationId": "20",
-      "title": "視覚刺激が起こす充実時程錯覚による記憶への影響の調査",
+      "title": "違和感喚起刺激が注視対象の記憶の残りやすさに起こす影響の調査",
       "speaker": "川東大将",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "川東大将, 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "21",
-      "title": "（仮）多様な選択行動を促すためのランキングリスト向け情報提示手法",
+      "title": "多様な選択行動を促すためのポジティブ情報に着目したデジタルサイネージシステムの実装",
       "speaker": "清水友順",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "清水友順(神戸大), 双見京介(立命館大), 牟田将史, 益子 宗(楽天技術研究所), 寺田 努, 塚本昌彦(神戸大)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -201,37 +201,37 @@
       "title": "口腔内環境改善のための顎下部装着型ウェアラブルデバイスの提案",
       "speaker": "鷲野 海",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "鷲野 海, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "23",
       "title": "チョーカー型デバイスを用いた頸部周径変化の計測による口呼吸と鼻呼吸の判別",
       "speaker": "尾形駿介",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "尾形駿介，寺田 努，塚本昌彦(神戸大)"
     }, {
       "presentationId": "24",
-      "title": "授乳中のスマートフォン操作が母親と乳児に与える影響の調査",
+      "title": "授乳中のスマートフォン操作が母親および乳児の体勢データに与える影響の調査",
       "speaker": "中川 遼",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "中川 遼, 大西鮎美(神戸大), 吉田さちね(東邦大, JST さきがけ), 寺田 努(神戸大), 船戸弘正(東邦大, 筑波大), 塚本昌彦(神戸大)"
     }, {
       "presentationId": "25",
       "title": "鼻部装着型圧電素子を用いた呼吸認識デバイスの設計と実装",
       "speaker": "松田 真",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "松田 真(立命館大), 双見京介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "26",
       "title": "胸式・腹式呼吸識別を加味した残呼気量推定手法の提案",
       "speaker": "松井勇介",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "松井勇介, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "27",
       "title": "センサ内蔵アンターパンツを用いた排泄ログシステムの提案",
       "speaker": "恵村健太郎",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "恵村健太郎(神戸大), 磯山直也(奈良先端大), 寺田 努, 塚本昌彦(神戸大)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -242,40 +242,40 @@
     "hasPresentation": true,
     "presentations": [{
       "presentationId": "28",
-      "title": "サイコ アクチュエーション",
+      "title": "セルフコントロールエンジニアリング: 心身の自制機能を拡張する魔法を生む情報提示基盤",
       "speaker": "双見京介",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "双見京介(立命館大)"
     }, {
       "presentationId": "29",
-      "title": "絵画鑑賞時におけるHMDの提示方法に関する検討",
+      "title": "絵画鑑賞時におけるHMDの提示方法の違いに関する調査",
       "speaker": "磯山直也",
       "affiliation": "奈良先端科学技術大学院大学",
-      "authors": ""
+      "authors": "磯山直也(奈良先端大), 寺田努(神戸大)"
     }, {
       "presentationId": "30",
       "title": "電気刺激と静電摩擦刺激を組み合わせた複合触感呈示によるリアルな触感呈示",
       "speaker": "石塚裕己",
       "affiliation": "大阪大学大学院基礎工学研究科",
-      "authors": ""
+      "authors": "石塚裕己(大阪大)"
     }, {
       "presentationId": "31",
-      "title": "新公共交通システム SAVS の普及に向けた試みに関する一考察",
+      "title": "研究成果を社会実装する際のジレンマに関する一考察",
       "speaker": "佐野渉二",
       "affiliation": "金沢工業大学",
-      "authors": ""
+      "authors": "佐野渉二(金沢工業大)"
     }, {
       "presentationId": "32",
       "title": "生体情報操作とウェアラブルセンシングセキュリティ",
       "speaker": "村尾和哉",
       "affiliation": "立命館大学，JSTさきがけ",
-      "authors": ""
+      "authors": "村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "33",
-      "title": "未定",
+      "title": "音声対話入力時のプライバシ情報の扱いについて",
       "speaker": "寺田 努",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "寺田 努(神戸大)"
     }]
   }, {
     "date": "12/20 (Fri.)",
@@ -318,34 +318,34 @@
     "hasPresentation": true,
     "presentations": [{
       "presentationId": "34",
-      "title": "身体を圧迫することによる脈波制御を用いたデバイスインタラクション手法",
+      "title": "身体を圧迫することによる脈波制御を用いたデバイスインタラクション手法の提案",
       "speaker": "秋元優摩",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "秋元優摩(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "35",
       "title": "脈波センサへの攻撃を実現するための腕締め付けデバイスの設計と実装",
       "speaker": "澤野亮太",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "澤野亮太(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "36",
       "title": "脈波センサを用いた血流速度変化による腕の状態認識手法の提案",
       "speaker": "大木戸 亮",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "大木戸亮(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "37",
       "title": "心電と脈波の時間差を用いたウェアラブル端末装着位置推定手法の再評価",
       "speaker": "吉田航輝",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "吉田航輝(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "38",
       "title": "NEDO次世代人工知能・ロボット中核技術開発プロジェクト「健康長寿を楽しむスマートソサエティ～主体性のあるスキルアップを促進する AIスマートコーチング技術の開発」",
       "speaker": "栗田雄一",
       "affiliation": "広島大学",
-      "authors": ""
+      "authors": "栗田雄一(広島大)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -359,37 +359,37 @@
       "title": "フィールドホッケーにおける圧力センサ付スティックを用いた打点可視化システム",
       "speaker": "岩本宗大",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "岩本宗大, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "40",
       "title": "スポーツにおける機械判定システムの判定要素のリアルタイム表示がプレーヤの納得感に与える影響の調査",
       "speaker": "柳生 遥",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "柳生 遥, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "41",
-      "title": "ＨＭＤを使った過去データの情報提示によるランニング時の行動変容",
+      "title": "ＨＭＤを用いたランニング支援システムの構築",
       "speaker": "正月凌介",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "正月凌介, 寺田 努, 塚本昌彦(神戸大), 坂本賢志(アシックス)"
     }, {
       "presentationId": "42",
       "title": "圧力センサによるプッシュアップフォーム識別デバイスの提案と実装",
       "speaker": "三重孝雄",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "三重孝雄, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "43",
       "title": "LEDを用いたゴーストの提示による短距離走練習方法",
       "speaker": "満仲 望",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "満仲 望(神戸大), 磯山直也(奈良先端大), 柳沢 豊(m plus plus株式会社), 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "44",
       "title": "ランニング時の膝の屈曲状態と膝への衝撃計測のための膝サポータ型デバイスの設計と実装",
       "speaker": "桐野江高太",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "桐野江高太, 寺田 努, 塚本昌彦(神戸大)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -403,31 +403,31 @@
       "title": "物と腕の動きの一致性を利用した取り違い防止判定システムの構築",
       "speaker": "河村知輝",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "河村知輝, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "46",
       "title": "加速度センサを用いた集団におけるマイノリティな状況の検出手法の提案",
       "speaker": "梶原大暉",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "梶原大暉(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "47",
       "title": "単語分散表現を用いた行動認識ラベルのグループ化手法の提案",
       "speaker": "斉藤俊介",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "斉藤俊介(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }, {
       "presentationId": "48",
       "title": "A Method of Gas Source Prediction and Localization from Sensor Network using Machine Learning",
       "speaker": "WorachatArunothaikrit",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "Worachat Arunothaikrit, Ayumi Ohnishi, Tsutomu Terada, Masahiko Tsukamoto(Kobe University)"
     }, {
       "presentationId": "49",
       "title": "圧力センサ搭載ヘルメットを用いた個人識別手法の提案",
       "speaker": "藤井淳寛",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "藤井敦寛(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -438,34 +438,34 @@
     "hasPresentation": true,
     "presentations": [{
       "presentationId": "50",
-      "title": "フリータッチ動作における触感と表面テクスチャの関係性の考",
+      "title": "フリータッチ動作における触感と表面テクスチャの関係性の考察",
       "speaker": "今岡恭司",
       "affiliation": "広島大学",
-      "authors": ""
+      "authors": "今岡恭司, 深田雅裕 , 栗田雄一 (広島大)"
     }, {
       "presentationId": "51",
-      "title": "ニット配線を使った柔軟なアクチュエータ",
+      "title": "3Dプリンティングファブリックを用いた新たなシステムの提案",
       "speaker": "澤田良太",
       "affiliation": "京都産業大学",
-      "authors": ""
+      "authors": "澤田良太, 瀬川典久(京都産業大)"
     }, {
       "presentationId": "52",
       "title": "人工筋による力覚フィードバックを用いた階段昇降感覚の提示",
       "speaker": "奥村拓海",
       "affiliation": "広島大学",
-      "authors": ""
+      "authors": "奥村拓海(広島大), 栗田雄一(広島大, JST さきがけ)"
     }, {
       "presentationId": "53",
-      "title": "衣服の変形を用いた触覚フィードバック手法の歩行中のフィードバック性能の評価",
+      "title": "衣服の変形を用いた触覚フィードバック手法の歩行中の性能評価",
       "speaker": "上田健太郎",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "上田健太郎, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "54",
       "title": "インフラサウンドを使った物体の測定",
       "speaker": "綾本公平",
       "affiliation": "京都産業大学",
-      "authors": ""
+      "authors": "綾本公平, 瀬川典久(京都産業大学)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -479,31 +479,31 @@
       "title": "無意識動作により学習契機を触発させる手話学習支援システムに関する一考察",
       "speaker": "渡辺雄大",
       "affiliation": "金沢工業大学",
-      "authors": ""
+      "authors": "渡辺雄大, 佐野渉二(金沢工業大)"
     }, {
       "presentationId": "56",
       "title": "スマートウォッチを活用したfpsゲームトレーニングの提案",
       "speaker": "周 鑠",
       "affiliation": "京都産業大学",
-      "authors": ""
+      "authors": "周 鑠, 瀬川典久(京都産業大)"
     }, {
       "presentationId": "57",
       "title": "習熟度に応じて助言内容が変化するプログラミング学習システム",
       "speaker": "竹中優太",
       "affiliation": "金沢工業大学",
-      "authors": ""
+      "authors": "竹中優太, 佐野渉二(金沢工業大)"
     }, {
       "presentationId": "58",
-      "title": "センサを用いてゲームをする。",
+      "title": "リアルイベント認識を活用したゲームの拡張の提案",
       "speaker": "浅田凌志",
       "affiliation": "京都産業大学",
-      "authors": ""
+      "authors": "浅田凌志, 瀬川典久(京都産業大)"
     }, {
       "presentationId": "59",
       "title": "エンターテイメントを用いたコードリーディング促進手法の提案",
       "speaker": "岡 大貴",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "岡 大貴, 西田健志(神戸大)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -517,37 +517,37 @@
       "title": "視線と頭部動作を用いたウェアラブルロボットアームの制御手法",
       "speaker": "木村拓己",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "木村拓己, 大西鮎美, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "61",
       "title": "パソコン作業時のキー入力を下肢動作で置き換えることによる運動不足改善システム",
       "speaker": "清水裕介",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "清水裕介, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "62",
-      "title": "VR空間での眼幅制御による遠近感の操作",
+      "title": "眼幅制御による直感的な作業指示のための遠近感の操作",
       "speaker": "川部淳志",
       "affiliation": "奈良先端科学技術大学院大学",
-      "authors": ""
+      "authors": "川部淳志, 磯山直也, 酒田信親, 清川 清(奈良先端大)"
     }, {
       "presentationId": "63",
       "title": "手術ロボット操作時の疲労度をウェアラブルセンサを用いて推定する手法の提案",
       "speaker": "東南 颯",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "東南 颯, 大西鮎美, 寺田 努(神戸大), 服部 稔, 好中久昌, 寿美裕介, 恵木浩之(広島大), 塚本昌彦(神戸大)"
     }, {
       "presentationId": "64",
       "title": "予測軌道の重畳提示による遠隔ショベルシステムの操作支援",
       "speaker": "大川夢月",
       "affiliation": "広島大学",
-      "authors": ""
+      "authors": "大川夢月, 伊藤 卓, 関塚良太(広島大), 佐伯誠司, 山﨑洋一郎(コベルコ建機株式会社), 栗田雄一(広島大, JST さきがけ)"
     }, {
       "presentationId": "65",
       "title": "タッチパネルを遠隔操作可能なデバイスの構築",
       "speaker": "岡本雅弘",
       "affiliation": "立命館大学",
-      "authors": ""
+      "authors": "岡本雅弘(立命館大), 村尾和哉(立命館大, JST さきがけ)"
     }]
   }, {
     "date": "12/21 (Sat.)",
@@ -558,34 +558,34 @@
     "hasPresentation": true,
     "presentations": [{
       "presentationId": "66",
-      "title": "未定",
+      "title": "発電機能をもつシューズを用いた発電量に基づく状況認識手法",
       "speaker": "大西鮎美",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "大西鮎美, 寺田 努, 塚本昌彦(神戸大)"
     }, {
       "presentationId": "67",
-      "title": "未定",
+      "title": "生理学的情報に基づく身体感覚翻訳機の構築に向けて",
       "speaker": "土田修平",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "土田修平(神戸大)"
     }, {
       "presentationId": "68",
       "title": "漆を利用した金属箔回路の試作",
       "speaker": "瀬川典久",
       "affiliation": "京都産業大学",
-      "authors": ""
+      "authors": "瀬川典久(京都産業大)"
     }, {
       "presentationId": "69",
       "title": "未定",
       "speaker": "柳沢 豊",
       "affiliation": "m plus plus 株式会社",
-      "authors": ""
+      "authors": "柳沢 豊(m plus plus 株式会社)"
     }, {
       "presentationId": "70",
-      "title": "未定",
+      "title": "血糖値ライフログによる生活習慣改善にむけて",
       "speaker": "塚本昌彦",
       "affiliation": "神戸大学",
-      "authors": ""
+      "authors": "塚本昌彦(神戸大)"
     }]
   }, {
     "date": "12/21 (Sat.)",

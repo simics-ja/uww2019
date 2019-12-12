@@ -51,7 +51,7 @@
                       </p>
                       <p>
                         <fa :icon="faUser" class="mr-2" />
-                        {{ presentation.speaker }}
+                        {{ presentation.authors }}
                       </p>
                     </li>
                   </ul>
