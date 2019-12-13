@@ -149,23 +149,23 @@
                   <div class="uww-body">
                     <table class="fine2col-info mb-4">
                       <tr>
-                        <th>9:00</th>
+                        <th>9:10</th>
                         <td>受付開始</td>
                       </tr>
                       <tr>
-                        <th>10:00-10:15</th>
+                        <th>10:10-10:20</th>
                         <td>オープニング</td>
                       </tr>
                       <tr>
-                        <th>10:15-17:00</th>
+                        <th>10:20-18:10</th>
                         <td>口頭発表セッション（途中休憩あり）</td>
                       </tr>
                       <tr>
-                        <th>18:00-19:30</th>
+                        <th>18:25-19:55</th>
                         <td>懇親会</td>
                       </tr>
                       <tr>
-                        <th>20:00-23:00</th>
+                        <th>20:25-23:25</th>
                         <td>ナイトセッション</td>
                       </tr>
                     </table>
@@ -174,11 +174,11 @@
                     </h3>
                     <table class="fine2col-info mb-4">
                       <tr>
-                        <th>9:00-17:00</th>
+                        <th>8:30-17:05</th>
                         <td>口頭発表セッション（途中休憩あり）</td>
                       </tr>
                       <tr>
-                        <th>17:00-17:15</th>
+                        <th>17:05-17:25</th>
                         <td>表彰・クロージング</td>
                       </tr>
                     </table>
