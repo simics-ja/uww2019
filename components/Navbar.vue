@@ -31,7 +31,7 @@
             <b-dropdown-item :href="absolutePath + 'word_UWW2019.docx'" class="text-center" download>
               <span>Template(Word)</span>
             </b-dropdown-item>
-            <b-dropdown-item href="#" class="text-center" disabled>
+            <b-dropdown-item :href="absolutePath + 'UWW2019_Proc.pdf'" class="text-center">
               <span>Proceedings</span>
             </b-dropdown-item>
           </b-nav-item-dropdown>

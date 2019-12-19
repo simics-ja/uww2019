@@ -58,6 +58,14 @@
                   <ul class="list-unstyled">
                     <li>
                       <b-badge variant="secondary">
+                        2019-12-20
+                      </b-badge>
+                      <span class="ml-2">
+                        プロシーディングスを公開しました。
+                      </span>
+                    </li>
+                    <li>
+                      <b-badge variant="secondary">
                         2019-12-12
                       </b-badge>
                       <span class="ml-2">
